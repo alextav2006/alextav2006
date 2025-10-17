@@ -43,15 +43,15 @@ I believe in **mastering fundamentals**, writing **purposeful code**, and contin
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiqlex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiqlex&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alextav2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextav2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160"/>
 </p>
 
 ---
 
 ### 📫 Connect
 <p align="center">
-  <a href="https://github.com/aiqlex" target="_blank">
+  <a href="https://github.com/alextav2006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
