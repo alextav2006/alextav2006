@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#3BAFDA;">aiqlex</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#3BAFDA;">Alex</span></h1>
 
 <p align="center">
   <b>Self-taught developer from Portugal 🇵🇹</b><br>
@@ -34,7 +34,7 @@ My focus is on **clarity, scalability, and strong architecture**.
 ---
 
 ### 💡 Philosophy
-> “Code is not just syntax — it’s structured thought made visible.”
+> “Code is not just syntax; it’s structured thought made visible.”
 
 Every project is an opportunity to sharpen logic and express precision through structure and clarity.  
 I believe in **mastering fundamentals**, writing **purposeful code**, and continuously improving.
